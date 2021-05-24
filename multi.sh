@@ -1,3 +1,10 @@
-python doge.py +916232556258 &
-python doge.py +919630928028 &
-python doge.py +916267971536
+#Script is created by Neutralarmy
+#All rights reserved ®
+
+python doge.py +91.......... &
+python doge.py +91.......... &
+python doge.py +91...........
+
+#Enter your no. with country code
+#You can input unlimited numbers
+#Using multiple accounts, directly effects your processor
